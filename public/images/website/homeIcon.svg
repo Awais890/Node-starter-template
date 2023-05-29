@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <filter id="Path_90" x="0" y="1" width="50" height="53.311" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-homeIcon">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="homeIcon" clip-path="url(#clip-homeIcon)">
+    <g id="Home_Btn" data-name="Home Btn" transform="translate(9 7)">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="6.934" height="12.888" transform="translate(12.534 20.421)" fill="none"/>
+      <path id="Path_89" data-name="Path 89" d="M315.1-53.45v17.927a2.235,2.235,0,0,0,2.233,2.232h5.6V-48.961a1.128,1.128,0,0,1,1.129-1.128h10.087a1.128,1.128,0,0,1,1.129,1.128v15.671h5.593a2.235,2.235,0,0,0,2.233-2.232V-53.45l-14-10.883Z" transform="translate(-313.1 66.6)" fill="none"/>
+      <g transform="matrix(1, 0, 0, 1, -9, -7)" filter="url(#Path_90)">
+        <path id="Path_90-2" data-name="Path 90" d="M344.672-54.784l-14.89-11.582a1.114,1.114,0,0,0-1.364,0l-14.89,11.582a1.111,1.111,0,0,0-.428.877v18.2a4.425,4.425,0,0,0,4.42,4.42h6.607l.011,0,.011,0h9.9l.011,0,.011,0h6.6a4.425,4.425,0,0,0,4.42-4.42v-18.2A1.111,1.111,0,0,0,344.672-54.784ZM332.953-33.513h-7.7v-14.32h7.7Zm9.924-2.2a2.2,2.2,0,0,1-2.2,2.2h-5.5V-48.944a1.111,1.111,0,0,0-1.111-1.111h-9.927a1.111,1.111,0,0,0-1.111,1.111v15.431H317.52a2.2,2.2,0,0,1-2.2-2.2V-53.364L329.1-64.081l13.778,10.717Z" transform="translate(-304.1 73.6)" fill="#fefefe"/>
+      </g>
+    </g>
+  </g>
+</svg>

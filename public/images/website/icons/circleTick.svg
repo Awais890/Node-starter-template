@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-circleTick">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="circleTick" clip-path="url(#clip-circleTick)">
+    <g id="Ellipse_50" data-name="Ellipse 50" fill="none" stroke="#a0e4ab" stroke-width="4">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="23" fill="none"/>
+    </g>
+    <path id="Path_146" data-name="Path 146" d="M-1151.974,4146.86l-16.078,18.3-8.01-8.02" transform="translate(1189 -4130)" fill="none" stroke="#a0e4ab" stroke-linecap="round" stroke-width="4"/>
+  </g>
+</svg>

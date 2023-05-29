@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133" height="71" viewBox="0 0 133 71">
+  <defs>
+    <clipPath id="clip-payrollCardIcon">
+      <rect width="133" height="71"/>
+    </clipPath>
+  </defs>
+  <g id="payrollCardIcon" clip-path="url(#clip-payrollCardIcon)">
+    <rect width="133" height="71" fill="#fff"/>
+    <g id="Group_168" data-name="Group 168" transform="translate(-1181.919 -391.366)">
+      <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(1185.919 394.366)" fill="#fff" stroke="#707070" stroke-width="6">
+        <rect width="126" height="66" rx="7" stroke="none"/>
+        <rect x="3" y="3" width="120" height="60" rx="4" fill="none"/>
+      </g>
+      <path id="Path_57" data-name="Path 57" d="M0,0H119.164" transform="translate(1189.337 416.403)" fill="none" stroke="#707070" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

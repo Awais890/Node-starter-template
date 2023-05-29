@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="85" viewBox="0 0 62 85">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0f8dc9"/>
+      <stop offset="0" stop-color="#108eca"/>
+      <stop offset="1" stop-color="#21a7dd"/>
+    </linearGradient>
+    <clipPath id="clip-logoIcon">
+      <rect width="62" height="85"/>
+    </clipPath>
+  </defs>
+  <g id="logoIcon" clip-path="url(#clip-logoIcon)">
+    <g id="Group_4" data-name="Group 4" transform="translate(-284 -585)">
+      <g id="Group_3" data-name="Group 3" transform="translate(-794 101)">
+        <path id="Path_18" data-name="Path 18" d="M1098,516.1V483h-20v45.977l20-10.878Z" transform="translate(0 1)" fill="url(#linear-gradient)"/>
+        <path id="Path_20" data-name="Path 20" d="M1120,570l20-17.957v-34.02L1120,528.9Z" transform="translate(0 -1)" fill="url(#linear-gradient)"/>
+        <path id="Path_19" data-name="Path 19" d="M1120,483v22.6l-22,11.69-20,10.628v22.536L1098,568V539.536l22-11.69,20-10.627V483Z" transform="translate(0 1)" fill="#21a7dd"/>
+      </g>
+    </g>
+  </g>
+</svg>

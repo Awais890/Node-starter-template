@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-notification">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="notification" clip-path="url(#clip-notification)">
+    <g id="Group_209" data-name="Group 209" transform="translate(-1554.432 -18.432)">
+      <g id="Group_135" data-name="Group 135" transform="translate(1553.647 17.648)">
+        <path id="Path_199" data-name="Path 199" d="M0,0H25.569V25.569H0Z" fill="none"/>
+        <path id="Path_200" data-name="Path 200" d="M20.263,18.257l-1.374-1.374V11.556c0-3.271-1.747-6.009-4.794-6.733V4.1a1.6,1.6,0,1,0-3.2,0v.724C7.84,5.547,6.1,8.274,6.1,11.556v5.327L4.729,18.257a1.066,1.066,0,0,0,.746,1.822H19.506a1.066,1.066,0,0,0,.756-1.822Zm-3.505-.309H8.235V11.556c0-2.642,1.609-4.794,4.262-4.794s4.262,2.152,4.262,4.794ZM12.5,23.275a2.137,2.137,0,0,0,2.131-2.131H10.365A2.13,2.13,0,0,0,12.5,23.275Z" transform="translate(0.289 -0.103)" fill="#555d61"/>
+      </g>
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="3.148" cy="2.698" rx="3.148" ry="2.698" transform="translate(1568.354 18.617)" fill="#ffd217"/>
+    </g>
+  </g>
+</svg>

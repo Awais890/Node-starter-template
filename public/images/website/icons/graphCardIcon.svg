@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115" height="94" viewBox="0 0 115 94">
+  <defs>
+    <clipPath id="clip-graphCardIcon">
+      <rect width="115" height="94"/>
+    </clipPath>
+  </defs>
+  <g id="graphCardIcon" clip-path="url(#clip-graphCardIcon)">
+    <rect width="115" height="94" fill="#fff"/>
+    <g id="Group_169" data-name="Group 169" transform="translate(-1513 -386)">
+      <g id="Rectangle_26" data-name="Rectangle 26" transform="translate(1575 386)" fill="#707070" stroke="#707070" stroke-width="1">
+        <rect width="22" height="93" stroke="none"/>
+        <rect x="0.5" y="0.5" width="21" height="92" fill="none"/>
+      </g>
+      <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(1544 401)" fill="#707070" stroke="#707070" stroke-width="1">
+        <rect width="22" height="78" stroke="none"/>
+        <rect x="0.5" y="0.5" width="21" height="77" fill="none"/>
+      </g>
+      <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(1513 432)" fill="#707070" stroke="#707070" stroke-width="1">
+        <rect width="22" height="47" stroke="none"/>
+        <rect x="0.5" y="0.5" width="21" height="46" fill="none"/>
+      </g>
+      <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(1606 409)" fill="#707070" stroke="#707070" stroke-width="1">
+        <rect width="22" height="70" stroke="none"/>
+        <rect x="0.5" y="0.5" width="21" height="69" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

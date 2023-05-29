@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="86" viewBox="0 0 86 86">
+  <defs>
+    <clipPath id="clip-addCardIcon">
+      <rect width="86" height="86"/>
+    </clipPath>
+  </defs>
+  <g id="addCardIcon" clip-path="url(#clip-addCardIcon)">
+    <rect width="86" height="86" fill="#fff"/>
+    <path id="Path_166" data-name="Path 166" d="M500.991,719.077a8.152,8.152,0,0,1-8.144-8.144v-26.5h-26.5a8.143,8.143,0,0,1,0-16.286h26.5v-26.5a8.142,8.142,0,1,1,16.284,0v26.5h26.5a8.143,8.143,0,0,1,0,16.286h-26.5v26.5A8.151,8.151,0,0,1,500.991,719.077Z" transform="translate(-458.2 -633.5)" fill="#707070"/>
+  </g>
+</svg>

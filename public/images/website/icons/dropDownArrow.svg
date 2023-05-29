@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-dropDownArrow">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="dropDownArrow" clip-path="url(#clip-dropDownArrow)">
+    <path id="Path_238" data-name="Path 238" d="M9.619,17.3a7.614,7.614,0,1,1,5.386-2.227A7.6,7.6,0,0,1,9.619,17.3Zm0-14.013a6.4,6.4,0,1,0,4.525,1.874A6.356,6.356,0,0,0,9.619,3.289Zm4.956,11.355h0Z" transform="translate(-1.619 -1.686)" fill="#555d61"/>
+    <path id="Path_239" data-name="Path 239" d="M12.314,15.293a.608.608,0,0,1-.431-.179l-2.8-2.8a.609.609,0,0,1,.862-.862l2.37,2.37,2.37-2.37a.609.609,0,1,1,.862.862l-2.8,2.8a.608.608,0,0,1-.431.179Z" transform="translate(-4.314 -5.281)" fill="#555d61"/>
+  </g>
+</svg>

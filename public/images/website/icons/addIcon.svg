@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-addIcon">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="addIcon" clip-path="url(#clip-addIcon)">
+    <path id="Union_4" data-name="Union 4" d="M-1441.7,162a2,2,0,0,1-2-2v-4.3h-4.3a2,2,0,0,1-2-2v-1.4a2,2,0,0,1,2-2h4.3V146a2,2,0,0,1,2-2h1.4a2,2,0,0,1,2,2v4.3h4.3a2,2,0,0,1,2,2v1.4a2,2,0,0,1-2,2h-4.3V160a2,2,0,0,1-2,2Z" transform="translate(1451 -143)" fill="#fff"/>
+  </g>
+</svg>
